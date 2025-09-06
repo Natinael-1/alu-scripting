@@ -1,3 +1,3 @@
-i#!/usr/bin/env ruby
+i#!/usr/bin/ruby
 puts ARGV[0].scan(/^h.n$/).join
 
